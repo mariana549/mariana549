@@ -1,9 +1,7 @@
 
 
- # 💜Oie devs, meu nome é Mariana**!** 👋
- 
-
----
+ # 💜Oie devs, meu nome é Mariana! 👋
+ <br/>
 
  ## Sobre mim
 
@@ -13,14 +11,14 @@
 >
 >🌱 Aprendendo mais sobre: Git e Github, HTML, CSS, JavaScript
 
-----
+ <br/>
 
 ## 🚀 Minhas Skills
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
-----
+ <br/>
 
 ### **Ferramentas de desenvolvimento**
 
@@ -28,24 +26,19 @@
 
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-----
-
+ <br/>
+ 
 ## ⭐ Informações sobre minha conta GitHub
 
 <div>
 <a href="https://github.com/mariana549">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariana549&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariana549&layout=compact&langs_count=6&theme=tokyonight"/>
-
-<a href="https://github.com/mariana549" title="ilustração do mapeamento de linguagens">
-<img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mariana549&theme=dracula&hide_langs_below=1](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1)" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
-
 </div>
 
 <br>
 
-### **Onde eu encontrar**
+### **Onde mim encontrar**
 
 
 <div>
