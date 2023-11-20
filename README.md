@@ -50,4 +50,6 @@
 <a href="https://www.linkedin.com/in/mari-evaristo-6694b5245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![](https://komarev.com/ghpvc/?mariana549-username&color=green)
+<br>
+
+![](https://komarev.com/ghpvc/?username=mariana549&color=blueviolet&style=for-the-badge&label=CONTADOR)
