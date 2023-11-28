@@ -1,6 +1,6 @@
 ![](lineBar.png)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
-
+![](lineBar.png)
  <br/>
  
  # 💜Oie devs, meu nome é Mariana! 👋
@@ -32,6 +32,7 @@
 
  <br/>
  
+ ![](lineBar.png)
 ## ⭐ Informações sobre minha conta GitHub
 
 <div>
@@ -42,7 +43,7 @@
 
 <br>
 
-### **Onde mim encontrar**
+### **Minhas redes sociais**
 
 
 <div>
@@ -54,3 +55,4 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=mariana549&color=blueviolet&style=for-the-badge&label=CONTADOR)
+![](lineBar.png)
